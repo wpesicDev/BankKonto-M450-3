@@ -1,0 +1,14 @@
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\bin\Debug\net6.0\Bankkonto-2.exe
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\bin\Debug\net6.0\Bankkonto-2.deps.json
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\bin\Debug\net6.0\Bankkonto-2.runtimeconfig.json
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\bin\Debug\net6.0\Bankkonto-2.dll
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\bin\Debug\net6.0\Bankkonto-2.pdb
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.AssemblyInfoInputs.cache
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.AssemblyInfo.cs
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.csproj.CoreCompileInputs.cache
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.dll
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\refint\Bankkonto-2.dll
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.pdb
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\Bankkonto-2.genruntimeconfig.cache
+C:\Users\M0645840\source\repos\Bankkonto-2\Bankkonto-2\obj\Debug\net6.0\ref\Bankkonto-2.dll
